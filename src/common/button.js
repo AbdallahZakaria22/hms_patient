@@ -1,0 +1,40 @@
+module.exports={
+    button1:{
+        backgroundColor:'#09c',
+        
+        color:'#fff',
+        padding:10,
+        borderRadius:10,
+        fontSize:20,
+        minWidth:150,
+        textAlign:'center',
+        margin:10,
+        marginBottom:10,
+    },
+    button2:{
+        
+        color:'#000',
+        padding:10,
+        borderRadius:10,
+        fontSize:20,
+        minWidth:150,
+        textAlign:'center',
+        margin:10,
+        marginBottom:10,
+        borderWidth:2,
+        borderColor: '#09c',
+    },
+    button3:{
+        backgroundColor:'#ff0e0e',
+        color:'#000',
+        padding:10,
+        borderRadius:10,
+        fontSize:20,
+        minWidth:150,
+        textAlign:'center',
+        margin:10,
+        marginBottom:10,
+        borderWidth:2,
+        borderColor: 'red',
+    },
+}
